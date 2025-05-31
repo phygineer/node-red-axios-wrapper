@@ -1,6 +1,18 @@
-# Node-RED Axios Wrapper
+node-red-axios-wrapper
+=====================
 
-axios wrapper node 
+AxiosWrapper
+
+## Install
+
+Run the following command in your Node-RED user directory - typically `~/.node-red`
+
+        npm install @phygineer/node-red-axios-wrapper
+
+## Information
+
+
+# Node-RED Axios Wrapper
 
 ## Overview
 
