@@ -1,0 +1,29 @@
+{
+  "name": "node-red-axios-wrapper",
+  "version": "1.0.0",
+  "description": "axios wrapper node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phygineer/node-red-axios-wrapper.git"
+  },
+  "keywords": ["axios","rest","api","postman"],
+  "author": "Phygineer",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phygineer/node-red-axios-wrapper/issues"
+  },
+  "homepage": "https://github.com/phygineer/node-red-axios-wrapper#readme",
+  "node-red": {
+        "nodes": {
+            "node-red-axios-wrapper": "index.js"
+        },
+        "dependencies": [
+            "axios"
+        ]
+    }
+}
