@@ -1,6 +1,6 @@
 {
-  "name": "node-red-axios-wrapper",
-  "version": "1.0.1",
+  "name": "@phygineer/node-red-axios-wrapper",
+  "version": "1.0.0",
   "description": "axios wrapper node",
   "main": "index.js",
   "scripts": {
