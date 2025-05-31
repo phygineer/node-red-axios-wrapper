@@ -1,6 +1,6 @@
 {
   "name": "node-red-axios-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "axios wrapper node",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/phygineer/node-red-axios-wrapper.git"
   },
-  "keywords": ["axios","rest","api","postman"],
+  "keywords": ["node-red", "node-red-subflow","axios","rest","api","postman"],
   "author": "Phygineer",
   "license": "Apache-2.0",
   "type": "commonjs",
