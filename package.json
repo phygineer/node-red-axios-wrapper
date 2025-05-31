@@ -1,6 +1,6 @@
 {
   "name": "@phygineer/node-red-axios-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node-RED node for ",
   "repository": {
     "type": "git",
@@ -9,6 +9,7 @@
   "author": "Phygineer",
   "homepage": "https://github.com/phygineer/node-red-axios-wrapper#readme",
   "keywords": [
+    "node-red",
     "node-red-nodegen", 
     "axios", 
     "http", 
